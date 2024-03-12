@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ab1d1af-5313-4ebf-b1e1-6c781dcb765f" name="Changes" comment="0. Initial commit">
+    <list default="true" id="2ab1d1af-5313-4ebf-b1e1-6c781dcb765f" name="Changes" comment="1. Introduction, task conventions">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/common/GarbageAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/common/GarbageProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/common/utils/AnswerComposer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/common/utils/IconConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/common/utils/WordsComposer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/webassistant/service/resolvers/utils/words/AbstractWordsFrequencyResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springtest/webassistant/service/resolvers/utils/words/Yegor256WordsFrequencyResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/garbage.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,13 +46,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Borisov\Spring-test-2016\Spring-Test-2016" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710088987953</updated>
-      <workItem from="1710088992063" duration="3743000" />
+      <workItem from="1710088992063" duration="11390000" />
     </task>
     <task id="LOCAL-00001" summary="0. Initial commit">
       <created>1710089489240</created>
@@ -53,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710089489241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1. Introduction, task conventions">
+      <created>1710092874490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710092874490</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0. Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="0. Initial commit" />
+    <MESSAGE value="1. Introduction, task conventions" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Introduction, task conventions" />
   </component>
 </project>
